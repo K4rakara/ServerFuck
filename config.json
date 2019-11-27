@@ -1,0 +1,5 @@
+{
+	"onRequest" : "hello-world.bf",
+	"verbose" : false,
+	"bfVerbose" : false
+}
